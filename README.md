@@ -39,11 +39,11 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 1. Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
 
 ### **→ Organización de la información**
-**1. Título o subtítulo:** Regulación del uso de plásticos: *Isla de Plásticos en Rapa Nui*
-**2. Lead o entradilla:** Explicación de las islas.
-**3. Cuerpo:**
+1. **Título o subtítulo:** Regulación del uso de plásticos: *Isla de Plásticos en Rapa Nui*
+2. **Lead o entradilla:** Explicación de las islas.
+3. **Cuerpo:**
   a. Microplásticos
   b. Explicación de las Islas de plástico
   c. Contaminación del mar, flora y fauna de las costas de la zona y como se ven afectadas y en consecuencia, nosotros.
   d. Leyes actuales sobre regulación del plástico
-**4. Descenlace:**
+4. **Descenlace:**
