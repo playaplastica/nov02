@@ -15,8 +15,8 @@
   
 **Contaminación en el mar** 
 - [El plastico en el mar](https://revistamarina.cl/revistas/2018/3/gaimonea.pdf)
-- Los plásticos constituyen entre el 60% y el 80% del total de basura que hay en el mar
-- La situación en el océano Pacífico, La Comisión Permanente del Pacífico Sur (CPPS), que agrupa a Colombia, Ecuador, Perú y Chile, es una organización que atiende la problemática de la integración de las políticas marítimas
+  - Los plásticos constituyen entre el 60% y el 80% del total de basura que hay en el mar
+  - La situación en el océano Pacífico, La Comisión Permanente del Pacífico Sur (CPPS), que agrupa a Colombia, Ecuador, Perú y Chile, es una organización que atiende la problemática de la integración de las políticas marítimas
 
 ## **→ Sobre legilación de la regulación del plástico**
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
