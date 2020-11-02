@@ -1,6 +1,6 @@
 # Regulación del uso de plásticos:
 ## Isla de Plásticos en Rapa Nui
-
+![alt text](https://www.delfuegonoticias.com.ar/public/images/noticias/22677-la-isla-de-basura-ya-es-mas-grande-que-toda-la-patagonia.jpg)
 ## **→ Datos Duros**
 **Orígenes de los microplásticos e islas**
 - [Isla de plástico frente a las costas chilenas](http://maryciencia.org/columnas/isla-de-plastico/)
