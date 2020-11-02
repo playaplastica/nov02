@@ -1,5 +1,4 @@
-# Regulación del uso de plásticos:
-## Isla de Plásticos en Rapa Nui
+# Regulación del uso de plásticos: *Isla de Plásticos en Rapa Nui*
 
 ### **→ Sobre la Isla de plásticos generada en las costas de Rapa Nui**
 Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las costas, generando islas de microplásticos que contaminan fauna y flora de la costa.
