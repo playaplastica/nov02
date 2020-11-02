@@ -10,7 +10,7 @@
   - "La gran mayoría de los residuos que son reconocibles provienen de la pesca industrial"
   - La contaminación plástica viene la mayoría desde Chile (entre la Región de Antofagasta y la ciudad de Concepción) y de Perú.
 - [Chill waters, arid land: climate change arrives on Easter Island](https://www.reuters.com/article/idUSKCN1R812M)
-  - Los turistas a pesar de generar ingresos a Rapa Nui, ha generado que tengan que buscar formas de regular cuanto tiempo los turistas se pueden quedar, para proteger el medio ambiente y los sitios arqueológicos.
+  - Los turistas a pesar de generar ingresos a Rapa Nui también han causado un montón de contaminación, de modo que se tengan que buscar formas de regular cuanto tiempo se pueden quedar, para proteger el medio ambiente y los sitios arqueológicos.
   - La corriente del Pacífico Sur: corriente en donde se llevan las islas de basura microplástica, son dificiles de entender ya que no son visibles como islas en sí, son microplásticos que se los lleva la corriente y genera estas "islas" de basura.
 
 **Fauna y flora que se puede encontrar en esa zona (?)**
