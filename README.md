@@ -12,6 +12,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 
 **Orígenes de los microplásticos e islas**
 - [Isla de plástico frente a las costas chilenas](http://maryciencia.org/columnas/isla-de-plastico/)
+  - Esta isla tiene 3 veces el tamaño de Chile
   - Microplásticos: provienen de pedazos más grandes que con el tiempo, calor y agua se van fragmentando.
   - Peces y crustáceos consumen accidentalmente estos microplásticos, el que se acumula y se traspasa a través de las redes tróficas a los animales más grandes.
 - [Basura Marina en Isla de Pascua](https://es.mongabay.com/2020/02/basura-marina-en-isla-de-pascua-chile/)
