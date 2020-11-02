@@ -42,8 +42,8 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 1. **Título o subtítulo:** Regulación del uso de plásticos: *Isla de Plásticos en Rapa Nui*
 2. **Lead o entradilla:** Explicación de las islas.
 3. **Cuerpo:**
-  a. Microplásticos
-  b. Explicación de las Islas de plástico
+  a. Microplásticos: de donde vienen.
+  b. Explicación de las islas de plástico (recurso gráfico para explicarlo), como se forman. 
   c. Contaminación del mar, flora y fauna de las costas de la zona y como se ven afectadas y en consecuencia, nosotros.
-  d. Leyes actuales sobre regulación del plástico
+  d. Leyes actuales sobre regulación del plástico.
 4. **Descenlace:**
