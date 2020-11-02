@@ -16,6 +16,7 @@
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
 - Ley del uso de bolsas plásticas: [Ley 21100](https://www.bcn.cl/leychile/navegar?idNorma=1121380)
 - Ley de bases generales del Medio Ambiente: [Ley 19300](https://www.bcn.cl/leychile/navegar?idNorma=30667)
+- 2010: Crea ministerio de Medio Ambiente: [Ley 20417](https://www.bcn.cl/leychile/navegar?idNorma=1010459)
 - Leyes de conservación de la fauna marina
 - Regulación de plásticos
 
