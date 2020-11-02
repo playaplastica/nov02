@@ -1,12 +1,12 @@
 # Regulación del uso de plásticos:
 ## Isla de Plásticos en Rapa Nui
 
-## **→ Sobre la Isla de plásticos generada en las costas de Rapa Nui**
+### **→ Sobre la Isla de plásticos generada en las costas de Rapa Nui**
 Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las costas, generando islas de microplásticos que contaminan fauna y flora de la costa.
 ![alt text](https://www.delfuegonoticias.com.ar/public/images/noticias/22677-la-isla-de-basura-ya-es-mas-grande-que-toda-la-patagonia.jpg)
 > *↳ Isla de plásticos visible*
 
-## **→ Datos Duros**
+### **→ Datos Duros**
 ![alt text](https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/EJBJOTJ6WNFJ3BSUQS52L2JPAE.jpg)
 > *↳ Microplásticos de las islas*
 
@@ -31,7 +31,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
   - Los plásticos constituyen entre el 60% y el 80% del total de basura que hay en el mar
   - La situación en el océano Pacífico, La Comisión Permanente del Pacífico Sur (CPPS), que agrupa a Colombia, Ecuador, Perú y Chile, es una organización que atiende la problemática de la integración de las políticas marítimas
 
-## **→ Sobre legislaciones de la regulación del plástico**
+### **→ Sobre legislaciones de la regulación del plástico**
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
 - Ley del uso de bolsas plásticas: [Ley 21100](https://www.bcn.cl/leychile/navegar?idNorma=1121380)
 - Ley de bases generales del Medio Ambiente: [Ley 19300](https://www.bcn.cl/leychile/navegar?idNorma=30667)
