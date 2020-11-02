@@ -4,8 +4,12 @@
 ## **→ Sobre la Isla de plásticos generada en las costas de Rapa Nui**
 Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las costas, generando islas de microplásticos que contaminan fauna y flora de la costa.
 ![alt text](https://www.delfuegonoticias.com.ar/public/images/noticias/22677-la-isla-de-basura-ya-es-mas-grande-que-toda-la-patagonia.jpg)
+*Isla de plásticos visible*
+
 ## **→ Datos Duros**
 **Orígenes de los microplásticos e islas**
+![alt text](https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/EJBJOTJ6WNFJ3BSUQS52L2JPAE.jpg)
+*Microplásticos de las islas*
 - [Isla de plástico frente a las costas chilenas](http://maryciencia.org/columnas/isla-de-plastico/)
   - Microplásticos: provienen de pedazos más grandes que con el tiempo, calor y agua se van fragmentando.
   - Peces y crustáceos consumen accidentalmente estos microplásticos, el que se acumula y se traspasa a través de las redes tróficas a los animales más grandes.
