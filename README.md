@@ -5,7 +5,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 ![alt text](https://www.delfuegonoticias.com.ar/public/images/noticias/22677-la-isla-de-basura-ya-es-mas-grande-que-toda-la-patagonia.jpg)
 > *↳ Isla de plásticos visible*
 
-### **→ Datos Duros**
+### **→ Datos**
 ![alt text](https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/EJBJOTJ6WNFJ3BSUQS52L2JPAE.jpg)
 > *↳ Microplásticos de las islas*
 
