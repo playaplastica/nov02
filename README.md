@@ -6,6 +6,7 @@
 - Fauna y flora que se puede encontrar en esa zona (?)
 ###### *Sobre legilación de la regulación del plástico*
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
+- Norma del uso de bolsas plásticas [Ley 21100](https://www.bcn.cl/leychile/navegar?idNorma=1121380)
 - Leyes de conservación de la fauna marina
 - Regulación de plásticos
 ###### 
