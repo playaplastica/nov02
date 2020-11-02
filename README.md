@@ -21,7 +21,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
   - Los turistas a pesar de generar ingresos a Rapa Nui también han causado un montón de contaminación, de modo que se tengan que buscar formas de regular cuanto tiempo se pueden quedar, para proteger el medio ambiente y los sitios arqueológicos.
   - La corriente del Pacífico Sur: corriente en donde se llevan las islas de basura microplástica, son dificiles de entender ya que no son visibles como islas en sí, son microplásticos que se los lleva la corriente y genera estas "islas" de basura.
 
-**Fauna y flora que se puede encontrar en esa zona (?)**
+**Fauna y flora que se puede encontrar en esa zona**
   - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
   - 10 de estas 27 especies se encuentran en peligro de extinción o en situación crítica.
 
