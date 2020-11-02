@@ -1,6 +1,7 @@
 # Regulación del uso de plásticos:
 ## Isla de Plásticos en Rapa Nui
-###### *Datos Duros*
+
+## **➤ Datos Duros**
 - [Isla de plástico frente a las costas chilenas](http://maryciencia.org/columnas/isla-de-plastico/)
 
 **Orígenes de los plásticos**
@@ -12,7 +13,7 @@
   - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
   - 10 de estas 27 especies se encuentran en peligro de extinción o en situación crítica. 
 
-###### *Sobre legilación de la regulación del plástico*
+## **➤ Sobre legilación de la regulación del plástico**
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
 - Ley del uso de bolsas plásticas: [Ley 21100](https://www.bcn.cl/leychile/navegar?idNorma=1121380)
 - Ley de bases generales del Medio Ambiente: [Ley 19300](https://www.bcn.cl/leychile/navegar?idNorma=30667)
