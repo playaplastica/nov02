@@ -2,7 +2,7 @@
 ## Isla de Plásticos en Rapa Nui
 
 ## **→ Datos Duros**
-**Orígenes de los microplásticos**
+**Orígenes de los microplásticos e islas**
 - [Isla de plástico frente a las costas chilenas](http://maryciencia.org/columnas/isla-de-plastico/)
   - Microplásticos: provienen de pedazos más grandes que con el tiempo, calor y agua se van fragmentando.
   - Peces y crustáceos consumen accidentalmente estos microplásticos, el que se acumula y se traspasa a través de las redes tróficas a los animales más grandes.
