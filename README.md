@@ -2,6 +2,7 @@
 
 Existen 7 islas de plásticos en el mundo. Una de ellas es la que se ubica en el océano pacífico sur, entre Chile y Perú. Específicamente en las cercanías de Rapan Nui. 
 Más información sobre las islas de plástico en: [Revista GQ](https://www.revistagq.com/noticias/articulo/7-islas-de-plastico-mas-grandes-del-mundo)
+Los plásticos constituyen entre el 60 y 80% de la basura del fondo marino y llegan a este desde:grandes ciudades industriales y por parte de las flotas pesqueras. 
 
 ### **→ Sobre la Isla de plásticos generada en las costas de Rapa Nui**
 Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las costas, generando islas de microplásticos que contaminan fauna y flora de la costa.
@@ -43,7 +44,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 
 ### **→ Organización de la información**
 1. **Título o subtítulo:** Regulación del uso de plásticos: *Isla de Plásticos en Rapa Nui*
-2. **Lead o entradilla:** Explicación de las islas.
+2. **Lead o entradilla:** Mapa que ubica a las islas y sus tamaños. 
 3. **Cuerpo:**
   - Microplásticos: de donde vienen.
   - Explicación de las islas de plástico (recurso gráfico para explicarlo), como se forman. 
