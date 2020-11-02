@@ -9,3 +9,4 @@
 - Leyes de conservación de la fauna marina
 - Regulación de plásticos
 ###### 
+[El plástico en el Mar](https://revistamarina.cl/revistas/2018/3/gaimonea.pdf) 
