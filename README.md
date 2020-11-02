@@ -12,6 +12,11 @@
 **Fauna y flora que se puede encontrar en esa zona (?)**
   - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
   - 10 de estas 27 especies se encuentran en peligro de extinción o en situación crítica. 
+  
+**Contaminación en el mar** 
+- [El plastico en el mar](https://revistamarina.cl/revistas/2018/3/gaimonea.pdf)
+- Los plásticos constituyen entre el 60% y el 80% del total de basura que hay en el mar
+- La situación en el océano Pacífico, La Comisión Permanente del Pacífico Sur (CPPS), que agrupa a Colombia, Ecuador, Perú y Chile, es una organización que atiende la problemática de la integración de las políticas marítimas
 
 ## **→ Sobre legilación de la regulación del plástico**
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
