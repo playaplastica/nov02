@@ -46,4 +46,5 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
   - Explicación de las islas de plástico (recurso gráfico para explicarlo), como se forman. 
   - Contaminación del mar, flora y fauna de las costas de la zona y como se ven afectadas y en consecuencia, nosotros.
   - Leyes actuales sobre regulación del plástico.
+  - Planteamiento problemática constitucional.
 4. **Descenlace:**
