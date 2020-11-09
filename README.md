@@ -43,6 +43,8 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 - *Leyes de conservación de la fauna marina*
 1. Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
 
+[Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
+
 ### **→ Organización de la información**
 1. **Título o subtítulo:** Regulación del uso de plásticos: *Isla de Plásticos en Rapa Nui*
 2. **Lead o entradilla:** Mapa que ubica a las islas y sus tamaños. 
